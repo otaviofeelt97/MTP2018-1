@@ -57,7 +57,7 @@ int main()
 			scanf("%d", &n2);
 
 			ConvBinario(n1); printf(" OR "); ConvBinario(n2);
-			printf(" : "); ConverterBinario(n1 | n2);
+			printf(" : "); ConvBinario(n1 | n2);
 			break;
 
 		case 4:
@@ -67,7 +67,7 @@ int main()
 			scanf("%d", &n2);
 
 			ConvBinario(n1); printf(" XOR "); ConvBinario(n2);
-			printf(" : "); ConverterBinario(n1 ^ n2);
+			printf(" : "); ConvBinario(n1 ^ n2);
 			break;
 
 		case 5:
