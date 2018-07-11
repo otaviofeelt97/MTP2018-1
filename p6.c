@@ -1,3 +1,8 @@
+/*
+Otavio Augusto Portela Luciano
+11621ETE008
+*/
+
 #include <stdio.h>
 int sm(int l, int *v)
 
